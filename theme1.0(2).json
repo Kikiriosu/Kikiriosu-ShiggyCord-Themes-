@@ -1,0 +1,88 @@
+
+{
+  "name": "Cyber Violet",
+  "description": "Dark purple cyberpunk theme",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Kikiriosu",
+      "id": "000000000000000000"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#100d19"],
+    "BACKGROUND_SECONDARY": ["#191326"],
+    "BACKGROUND_SECONDARY_ALT": ["#0c0912"],
+    "BACKGROUND_TERTIARY": ["#0c0912"],
+    "BACKGROUND_FLOATING": ["#191326"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#100d19"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#191326"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#b58cff22"],
+    "BACKGROUND_MODIFIER_HOVER": ["#b58cff18"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#b58cff30"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#35264d"],
+    "CHAT_BACKGROUND": ["#100d19"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#191326"],
+    "HEADER_PRIMARY": ["#f0e8ff"],
+    "HEADER_SECONDARY": ["#c8b5e8"],
+    "TEXT_NORMAL": ["#e5daf7"],
+    "TEXT_PRIMARY": ["#f0e8ff"],
+    "TEXT_SECONDARY": ["#c8b5e8"],
+    "TEXT_MUTED": ["#796a91"],
+    "TEXT_LINK": ["#c59cff"],
+    "INTERACTIVE_NORMAL": ["#c8b5e8"],
+    "INTERACTIVE_HOVER": ["#f0e8ff"],
+    "INTERACTIVE_ACTIVE": ["#c59cff"],
+    "INTERACTIVE_MUTED": ["#796a91"],
+    "CHANNELS_DEFAULT": ["#d9c9f5"],
+    "CHANNEL_ICON": ["#aa91cf"],
+    "MENTION_BACKGROUND": ["#b58cff22"],
+    "MENTION_FOREGROUND": ["#d0adff"],
+    "EMBED_BACKGROUND": ["#191326"],
+    "CARD_PRIMARY_BG": ["#191326"],
+    "CARD_SECONDARY_BG": ["#241a35"],
+    "BORDER_FAINT": ["#241a35"],
+    "BORDER_SUBTLE": ["#35264d"],
+    "BORDER_STRONG": ["#62458a"],
+    "STATUS_DANGER": ["#ed789d"],
+    "SCROLLBAR_AUTO_THUMB": ["#62458a"],
+    "SCROLLBAR_THIN_THUMB": ["#62458a"]
+  },
+  "rawColors": {
+    "BRAND_500": "#b58cff",
+    "BRAND_560": "#aa91cf",
+    "BRAND_600": "#9a70d8",
+    "BRAND_660": "#62458a",
+    "BRAND_700": "#35264d",
+    "PRIMARY_100": "#f0e8ff",
+    "PRIMARY_200": "#e5daf7",
+    "PRIMARY_300": "#c8b5e8",
+    "PRIMARY_500": "#796a91",
+    "PRIMARY_600": "#62458a",
+    "PRIMARY_700": "#0c0912",
+    "PRIMARY_800": "#191326",
+    "BLUE_500": "#9e8cff",
+    "GREEN_500": "#8fd6b5",
+    "RED_500": "#ed789d",
+    "YELLOW_500": "#ecd18b",
+    "ORANGE_500": "#e8a46b",
+    "WHITE_500": "#f0e8ff",
+    "BLACK_500": "#000000"
+  },
+  "fonts": {},
+  "plus": {
+    "version": 0,
+    "iconpack": "null",
+    "mentionLineColor": "#b58cff",
+    "icons": {
+      "ic_new_pins": "#b58cff",
+      "StatusStreaming": "#c59cff",
+      "StatusMobileOnline": "#8fd6b5",
+      "StatusIdle": "#ecd18b",
+      "StatusDND": "#ed789d",
+      "StatusOffline": "#796a91",
+      "StatusOnline": "#8fd6b5"
+    }
+  }
+}
