@@ -116,16 +116,16 @@
       "#00000000"
     ],
     "STATUS_ONLINE": [
-      "#5AA7E6",
-      "#1F6FB5"
+      "#6F9A82",
+      "#6F9A82"
     ],
     "STATUS_DANGER": [
-      "#E0243E",
-      "#B3122B"
+      "#A8545F",
+      "#A8545F"
     ],
     "STATUS_WARNING": [
-      "#D4AF37",
-      "#9C7A12"
+      "#B9A26E",
+      "#B9A26E"
     ],
     "BUTTON_OUTLINE_BRAND_BORDER": [
       "#D4AF37",
@@ -310,6 +310,42 @@
     "BUTTON_OUTLINE_PRIMARY_TEXT": [
       "#D4AF37",
       "#9C7A12"
+    ],
+    "STATUS_IDLE": [
+      "#B9A26E",
+      "#B9A26E"
+    ],
+    "STATUS_DND": [
+      "#A8545F",
+      "#A8545F"
+    ],
+    "STATUS_OFFLINE": [
+      "#6E6660",
+      "#6E6660"
+    ],
+    "STATUS_POSITIVE": [
+      "#6F9A82",
+      "#6F9A82"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#6F9A82",
+      "#6F9A82"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#6F9A82",
+      "#6F9A82"
+    ],
+    "TEXT_POSITIVE": [
+      "#6F9A82",
+      "#6F9A82"
+    ],
+    "TEXT_DANGER": [
+      "#A8545F",
+      "#A8545F"
+    ],
+    "TEXT_WARNING": [
+      "#B9A26E",
+      "#B9A26E"
     ]
   },
   "rawColors": {
@@ -349,7 +385,24 @@
     "BRAND_800": "#1D0307",
     "BRAND_830": "#150205",
     "BRAND_860": "#0E0104",
-    "BRAND_900": "#080102"
+    "BRAND_900": "#080102",
+    "GREEN_300": "#8DB59C",
+    "GREEN_330": "#7FA991",
+    "GREEN_345": "#779F89",
+    "GREEN_360": "#6F9A82",
+    "GREEN_400": "#668F78",
+    "GREEN_430": "#5C846E",
+    "GREEN_460": "#527A64",
+    "GREEN_500": "#486F59",
+    "GREEN_530": "#3F644F",
+    "GREEN_560": "#365945",
+    "GREEN_600": "#2D4E3B",
+    "YELLOW_300": "#B9A26E",
+    "YELLOW_330": "#B09866",
+    "YELLOW_360": "#A68F5F",
+    "RED_400": "#A8545F",
+    "RED_360": "#B65E69",
+    "RED_500": "#964A54"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/pandora-hearts-fond.jpg",
