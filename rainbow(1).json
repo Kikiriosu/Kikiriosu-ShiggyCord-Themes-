@@ -1,0 +1,220 @@
+{
+  "name": "Rainbow Shiggy",
+  "description": "Thème sombre arc-en-ciel avec fond dégradé pour Shiggycord.",
+  "authors": [
+    {
+      "name": "Kikiriosu"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "TEXT_NORMAL": [
+      "#F5F0FF",
+      "#2A1F3D"
+    ],
+    "TEXT_MUTED": [
+      "#A99BC7",
+      "#6B5C8A"
+    ],
+    "TEXT_LINK": [
+      "#4DD0FF",
+      "#0A8FCC"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF",
+      "#1E1433"
+    ],
+    "HEADER_SECONDARY": [
+      "#C9BDE6",
+      "#4A3C6B"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#C9BDE6",
+      "#4A3C6B"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFD166",
+      "#E07A00"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF6EC7",
+      "#D6249F"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#5E5080",
+      "#A99BC7"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#171126B3",
+      "#FBF8FFB3"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#120D1FCC",
+      "#F1EBFACC"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0E0A19CC",
+      "#E8E0F5CC"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0B0814D9",
+      "#DDD3EED9"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2B2045",
+      "#D6C9F0"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0B0814",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#171126B3",
+      "#FBF8FFB3"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#120D1FCC",
+      "#F1EBFACC"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FF6EC733",
+      "#FF6EC722"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#B388FF44",
+      "#B388FF33"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#4DD0FF33",
+      "#4DD0FF22"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FFD1660F",
+      "#FFD16622"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#A99BC7",
+      "#6B5C8A"
+    ],
+    "CHANNEL_ICON": [
+      "#B388FF",
+      "#7B3FE4"
+    ],
+    "CHAT_BACKGROUND": [
+      "#17112600",
+      "#FBF8FF00"
+    ],
+    "CHAT_BORDER": [
+      "#FF6EC755",
+      "#FF6EC744"
+    ],
+    "CHANNEL_TEXT_AREA_BACKGROUND": [
+      "#221838",
+      "#EFE8FA"
+    ],
+    "INPUT_BACKGROUND": [
+      "#221838",
+      "#EFE8FA"
+    ],
+    "MENTION_BACKGROUND": [
+      "#FFD16633",
+      "#FFD16644"
+    ],
+    "MENTION_FOREGROUND": [
+      "#FFD166",
+      "#B36B00"
+    ],
+    "MENTION_BACKGROUND_HOVER": [
+      "#FFD16655",
+      "#FFD16666"
+    ],
+    "BORDER_FAINT": [
+      "#B388FF33",
+      "#B388FF44"
+    ],
+    "BORDER_STRONG": [
+      "#FF6EC766",
+      "#FF6EC755"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#6BFF9E",
+      "#2BC46A"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#FFD166",
+      "#F5A623"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#FF5C7A",
+      "#E0294D"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#B388FF",
+      "#7B3FE4"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#FF6EC7",
+      "#D6249F"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2B2045",
+      "#D6C9F0"
+    ],
+    "REDESIGN_BUTTON_POSITIVE_BACKGROUND": [
+      "#6BFF9E",
+      "#2BC46A"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#FF5C7A",
+      "#E0294D"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#B388FF",
+      "#7B3FE4"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#FF6EC7",
+      "#D6249F"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#17112600",
+      "#FBF8FF00"
+    ],
+    "TEXT_BRAND": [
+      "#FF9E5C",
+      "#E0600A"
+    ],
+    "TEXT_POSITIVE": [
+      "#6BFF9E",
+      "#1E9E55"
+    ],
+    "TEXT_WARNING": [
+      "#FFD166",
+      "#B36B00"
+    ],
+    "TEXT_DANGER": [
+      "#FF5C7A",
+      "#C41E40"
+    ]
+  },
+  "rawColors": {
+    "BRAND_360": "#FF9E5C",
+    "BRAND_400": "#FF6EC7",
+    "BRAND_500": "#B388FF",
+    "BRAND_560": "#8A5CF0",
+    "BRAND_600": "#6B3FD6",
+    "RED_400": "#FF5C7A",
+    "ORANGE_400": "#FF9E5C",
+    "YELLOW_400": "#FFD166",
+    "GREEN_400": "#6BFF9E",
+    "TEAL_400": "#4DE6D0",
+    "BLUE_400": "#4DD0FF",
+    "PURPLE_400": "#B388FF",
+    "PINK_400": "#FF6EC7"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/refs/heads/main/rainbow-bg.jpg",
+    "blur": 0,
+    "alpha": 1
+  }
+}
