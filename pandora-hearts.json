@@ -103,10 +103,6 @@
       "#A8998A",
       "#6B5A52"
     ],
-    "CHANNEL_TEXT_AREA_BACKGROUND": [
-      "#1D0E12CC",
-      "#EADBC0"
-    ],
     "INPUT_BACKGROUND": [
       "#1D0E12CC",
       "#EADBC0"
@@ -178,6 +174,10 @@
     "BORDER_STRONG": [
       "#D4AF3740",
       "#D4AF3760"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1D0E12CC",
+      "#EADBC0"
     ]
   },
   "rawColors": {
@@ -198,6 +198,11 @@
     "BRAND_560": "#8C0E22",
     "BRAND_600": "#7A0C1E",
     "BRAND_630": "#680A19"
-
-  }
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/pandora-hearts-fond.jpg",
+    "blur": 0,
+    "alpha": 0.8
+  },
+  "spec": 2
 }
