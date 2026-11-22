@@ -1,0 +1,34 @@
+{
+  "name": "Chillax Black",
+  "description": "Adaptation du thème Chillax : fond noir, accent rouge (#fb5454), police Poppins.",
+  "authors": [{ "name": "Chillax Squad (adapté)" }],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#000000", "#ffffff"],
+    "BACKGROUND_SECONDARY": ["#000000", "#d1d1d1"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000", "#d1d1d1"],
+    "BACKGROUND_TERTIARY": ["#000000", "#c4c4c4"],
+    "BACKGROUND_FLOATING": ["#121212", "#e3e3e3"],
+    "BACKGROUND_ACCENT": ["#242424", "#1b1b1b"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000", "#ffffff"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000", "#d1d1d1"],
+    "CHAT_BACKGROUND": ["#000000", "#ffffff"],
+    "BACKGROUND_MODIFIER_HOVER": ["#ffffff0e", "#0000000e"],
+    "HEADER_PRIMARY": ["#ffffff", "#000000"],
+    "HEADER_SECONDARY": ["#b9bbbe", "#3f3f3f"],
+    "TEXT_NORMAL": ["#dcddde", "#303030"],
+    "TEXT_MUTED": ["#9d9d9d", "#333333"],
+    "TEXT_LINK": ["#fb5454", "#fb5454"],
+    "CHANNELS_DEFAULT": ["#8e9297", "#585b5e"],
+    "INTERACTIVE_NORMAL": ["#b9bbbe", "#3a3a3a"],
+    "INTERACTIVE_HOVER": ["#dcddde", "#333333"],
+    "INTERACTIVE_ACTIVE": ["#ffffff", "#000000"],
+    "INTERACTIVE_MUTED": ["#4f545c", "#4f545c"],
+    "STATUS_POSITIVE_BACKGROUND": ["#1df594", "#1df594"],
+    "STATUS_WARNING_BACKGROUND": ["#faa61a", "#faa61a"],
+    "STATUS_DANGER_BACKGROUND": ["#f04747", "#f04747"]
+  },
+  "rawColors": {
+    "BRAND_500": "#fb5454",
+    "BRAND_560": "#e04a4a"
+  }
+}
