@@ -105,8 +105,8 @@
       "#FBF8FF00"
     ],
     "CHAT_BORDER": [
-      "#FF6EC755",
-      "#FF6EC744"
+      "#4DD0FFCC",
+      "#4DD0FFAA"
     ],
     "CHANNEL_TEXT_AREA_BACKGROUND": [
       "#221838",
@@ -129,12 +129,12 @@
       "#FFD16666"
     ],
     "BORDER_FAINT": [
-      "#B388FF33",
-      "#B388FF44"
+      "#FF5C7AAA",
+      "#FF5C7A88"
     ],
     "BORDER_STRONG": [
-      "#FF6EC766",
-      "#FF6EC755"
+      "#6BFF9ECC",
+      "#2BC46ACC"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
       "#6BFF9E",
@@ -153,12 +153,12 @@
       "#7B3FE4"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-      "#FF6EC7",
-      "#D6249F"
+      "#FF9E5C",
+      "#E0600A"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2B2045",
-      "#D6C9F0"
+      "#4DD0FF",
+      "#0A8FCC"
     ],
     "REDESIGN_BUTTON_POSITIVE_BACKGROUND": [
       "#6BFF9E",
@@ -195,6 +195,62 @@
     "TEXT_DANGER": [
       "#FF5C7A",
       "#C41E40"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_HOVER_BACKGROUND": [
+      "#FF6EC7",
+      "#D6249F"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_ACTIVE_BACKGROUND": [
+      "#FF9E5C",
+      "#E0600A"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_HOVER_BACKGROUND": [
+      "#4DE6D0",
+      "#12A892"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ACTIVE_BACKGROUND": [
+      "#6BFF9E",
+      "#2BC46A"
+    ],
+    "REDESIGN_BUTTON_OUTLINE_BORDER": [
+      "#FFD166",
+      "#E07A00"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER": [
+      "#B388FF",
+      "#7B3FE4"
+    ],
+    "BUTTON_OUTLINE_POSITIVE_BORDER": [
+      "#6BFF9E",
+      "#2BC46A"
+    ],
+    "BUTTON_OUTLINE_DANGER_BORDER": [
+      "#FF5C7A",
+      "#E0294D"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER": [
+      "#4DD0FF",
+      "#0A8FCC"
+    ],
+    "BORDER_SUBTLE": [
+      "#FF9E5CAA",
+      "#FF9E5C88"
+    ],
+    "BORDER_NORMAL": [
+      "#FFD166CC",
+      "#FFD166AA"
+    ],
+    "INPUT_BORDER": [
+      "#B388FFCC",
+      "#7B3FE4AA"
+    ],
+    "INPUT_BORDER_HOVER": [
+      "#FF6EC7",
+      "#D6249F"
+    ],
+    "INPUT_BORDER_FOCUS": [
+      "#FF6EC7",
+      "#D6249F"
     ]
   },
   "rawColors": {
