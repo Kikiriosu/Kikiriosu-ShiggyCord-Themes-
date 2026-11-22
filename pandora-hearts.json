@@ -168,16 +168,148 @@
       "#B3122B"
     ],
     "BORDER_FAINT": [
-      "#D4AF3718",
-      "#D4AF3730"
+      "#D4AF3722",
+      "#D4AF3736"
     ],
     "BORDER_STRONG": [
-      "#D4AF3740",
-      "#D4AF3760"
+      "#D4AF3780",
+      "#D4AF3799"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#1D0E12CC",
       "#EADBC0"
+    ],
+    "BORDER_SUBTLE": [
+      "#D4AF3730",
+      "#D4AF3744"
+    ],
+    "BORDER_NORMAL": [
+      "#D4AF3750",
+      "#D4AF3766"
+    ],
+    "BORDER_MUTED": [
+      "#D4AF3722",
+      "#D4AF3736"
+    ],
+    "BORDER_BRAND": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "BORDER_FOCUS": [
+      "#D4AF37",
+      "#D4AF37"
+    ],
+    "CONTROL_ACTIVE": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "BG_BRAND": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "BACKGROUND_BRAND": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "BUTTON_BRAND_BACKGROUND": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "BUTTON_FILLED_BRAND_BACKGROUND": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "SWITCH_TRACK_ON": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "SWITCH_BACKGROUND_ON": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "CHECKBOX_BACKGROUND_CHECKED": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "RADIO_BACKGROUND_ACTIVE": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "SLIDER_HANDLE_ACTIVE": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "SLIDER_TRACK_ACTIVE": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "FOCUS_PRIMARY": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "TEXT_BRAND_NORMAL": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "ICON_BRAND": [
+      "#B3122B",
+      "#B3122B"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_ACTIVE": [
+      "#8C0E22",
+      "#8C0E22"
+    ],
+    "BUTTON_BRAND_BACKGROUND_ACTIVE": [
+      "#8C0E22",
+      "#8C0E22"
+    ],
+    "BUTTON_FILLED_BRAND_BACKGROUND_ACTIVE": [
+      "#8C0E22",
+      "#8C0E22"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": [
+      "#8C0E22",
+      "#8C0E22"
+    ],
+    "BUTTON_BRAND_BACKGROUND_HOVER": [
+      "#8C0E22",
+      "#8C0E22"
+    ],
+    "BUTTON_PRIMARY_TEXT": [
+      "#F8EBD2",
+      "#F8EBD2"
+    ],
+    "BUTTON_BRAND_TEXT": [
+      "#F8EBD2",
+      "#F8EBD2"
+    ],
+    "BUTTON_FILLED_BRAND_TEXT": [
+      "#F8EBD2",
+      "#F8EBD2"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#2E1218",
+      "#E4D2B0"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+      "#3A171F",
+      "#D9C59F"
+    ],
+    "BUTTON_SECONDARY_TEXT": [
+      "#F2E6D0",
+      "#2A1015"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_BORDER": [
+      "#D4AF37",
+      "#9C7A12"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_TEXT": [
+      "#D4AF37",
+      "#9C7A12"
     ]
   },
   "rawColors": {
@@ -197,7 +329,27 @@
     "BRAND_530": "#9E1026",
     "BRAND_560": "#8C0E22",
     "BRAND_600": "#7A0C1E",
-    "BRAND_630": "#680A19"
+    "BRAND_630": "#680A19",
+    "BRAND_100": "#F7D4DA",
+    "BRAND_130": "#F0B3BD",
+    "BRAND_160": "#EA92A1",
+    "BRAND_200": "#E46E82",
+    "BRAND_230": "#E24A63",
+    "BRAND_260": "#E0314D",
+    "BRAND_300": "#E0243E",
+    "BRAND_330": "#D01B35",
+    "BRAND_345": "#C4172F",
+    "BRAND_400": "#C4172F",
+    "BRAND_430": "#BC142D",
+    "BRAND_460": "#B3122B",
+    "BRAND_660": "#580815",
+    "BRAND_700": "#480711",
+    "BRAND_730": "#38050D",
+    "BRAND_760": "#2A040A",
+    "BRAND_800": "#1D0307",
+    "BRAND_830": "#150205",
+    "BRAND_860": "#0E0104",
+    "BRAND_900": "#080102"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/pandora-hearts-fond.jpg",
