@@ -1,0 +1,18 @@
+{
+  "spec": 1,
+  "name": "Single Ghost",
+  "previewText": "Single Ghost",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/Kikiriosu/Kikiriosu-ShiggyCord-Themes-/main/singleghost.ttf"
+  }
+}
